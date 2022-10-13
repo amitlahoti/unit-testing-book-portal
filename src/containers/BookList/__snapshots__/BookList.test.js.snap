@@ -1,0 +1,331 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Book List Component Should haveBookList Component Snapshot 1`] = `
+Array [
+  <h1
+    className="text-center p-5"
+  >
+    Welcome to My Favorite Book Portal
+  </h1>,
+  <div
+    className="container"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-sm-4"
+      >
+        <div
+          className="card mb-4"
+        >
+          <div
+            className="card-body"
+          >
+            <h5
+              className="card-title mb-4"
+              data-testid="bookTitle"
+            >
+              Things Fall Apart
+            </h5>
+            <div
+              className="d-flex justify-content-between mb-4"
+            >
+              <small>
+                By : 
+                Chinua Achebe
+              </small>
+              <span
+                className="badge badge-success"
+              >
+                $ 
+                50
+              </span>
+            </div>
+            <div
+              className="d-flex justify-content-between"
+            >
+              <button
+                className="btn btn-success btn-sm"
+                data-testid="addBtn"
+                onClick={[Function]}
+              >
+                Add to Reading List
+              </button>
+              <a
+                className="btn btn-primary btn-sm"
+                href="https://en.wikipedia.org/wiki/Things_Fall_Apart
+"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Read More
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col-sm-4"
+      >
+        <div
+          className="card mb-4"
+        >
+          <div
+            className="card-body"
+          >
+            <h5
+              className="card-title mb-4"
+              data-testid="bookTitle"
+            >
+              Fairy tales
+            </h5>
+            <div
+              className="d-flex justify-content-between mb-4"
+            >
+              <small>
+                By : 
+                Hans Christian Andersen
+              </small>
+              <span
+                className="badge badge-success"
+              >
+                $ 
+                99
+              </span>
+            </div>
+            <div
+              className="d-flex justify-content-between"
+            >
+              <button
+                className="btn btn-success btn-sm"
+                data-testid="addBtn"
+                onClick={[Function]}
+              >
+                Add to Reading List
+              </button>
+              <a
+                className="btn btn-primary btn-sm"
+                href="https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.
+"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Read More
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col-sm-4"
+      >
+        <div
+          className="card mb-4"
+        >
+          <div
+            className="card-body"
+          >
+            <h5
+              className="card-title mb-4"
+              data-testid="bookTitle"
+            >
+              The Divine Comedy
+            </h5>
+            <div
+              className="d-flex justify-content-between mb-4"
+            >
+              <small>
+                By : 
+                Dante Alighieri
+              </small>
+              <span
+                className="badge badge-success"
+              >
+                $ 
+                145
+              </span>
+            </div>
+            <div
+              className="d-flex justify-content-between"
+            >
+              <button
+                className="btn btn-success btn-sm"
+                data-testid="addBtn"
+                onClick={[Function]}
+              >
+                Add to Reading List
+              </button>
+              <a
+                className="btn btn-primary btn-sm"
+                href="https://en.wikipedia.org/wiki/Divine_Comedy
+"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Read More
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col-sm-4"
+      >
+        <div
+          className="card mb-4"
+        >
+          <div
+            className="card-body"
+          >
+            <h5
+              className="card-title mb-4"
+              data-testid="bookTitle"
+            >
+              The Epic Of Gilgamesh
+            </h5>
+            <div
+              className="d-flex justify-content-between mb-4"
+            >
+              <small>
+                By : 
+                Alighieri Dante
+              </small>
+              <span
+                className="badge badge-success"
+              >
+                $ 
+                241
+              </span>
+            </div>
+            <div
+              className="d-flex justify-content-between"
+            >
+              <button
+                className="btn btn-success btn-sm"
+                data-testid="addBtn"
+                onClick={[Function]}
+              >
+                Add to Reading List
+              </button>
+              <a
+                className="btn btn-primary btn-sm"
+                href="https://en.wikipedia.org/wiki/Epic_of_Gilgamesh
+"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Read More
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col-sm-4"
+      >
+        <div
+          className="card mb-4"
+        >
+          <div
+            className="card-body"
+          >
+            <h5
+              className="card-title mb-4"
+              data-testid="bookTitle"
+            >
+              The Book Of Job
+            </h5>
+            <div
+              className="d-flex justify-content-between mb-4"
+            >
+              <small>
+                By : 
+                Christian Hans
+              </small>
+              <span
+                className="badge badge-success"
+              >
+                $ 
+                66
+              </span>
+            </div>
+            <div
+              className="d-flex justify-content-between"
+            >
+              <button
+                className="btn btn-success btn-sm"
+                data-testid="addBtn"
+                onClick={[Function]}
+              >
+                Add to Reading List
+              </button>
+              <a
+                className="btn btn-primary btn-sm"
+                href="https://en.wikipedia.org/wiki/Book_of_Job
+"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Read More
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col-sm-4"
+      >
+        <div
+          className="card mb-4"
+        >
+          <div
+            className="card-body"
+          >
+            <h5
+              className="card-title mb-4"
+              data-testid="bookTitle"
+            >
+              One Thousand and One Nights
+            </h5>
+            <div
+              className="d-flex justify-content-between mb-4"
+            >
+              <small>
+                By : 
+                Achebe Chinua
+              </small>
+              <span
+                className="badge badge-success"
+              >
+                $ 
+                89
+              </span>
+            </div>
+            <div
+              className="d-flex justify-content-between"
+            >
+              <button
+                className="btn btn-success btn-sm"
+                data-testid="addBtn"
+                onClick={[Function]}
+              >
+                Add to Reading List
+              </button>
+              <a
+                className="btn btn-primary btn-sm"
+                href="https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights
+"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Read More
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
